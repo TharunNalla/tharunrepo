@@ -1,0 +1,4 @@
+1. Having knowledge on Coucbase - NoSQL database
+2. Having knowledge on Admin tasks on udeploy tool.
+3. Having good knowledge Pac2000 monitoring tool where CR's,WR's,PRB's and WO's will be logged in to our queue.
+FV
